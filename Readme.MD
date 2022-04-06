@@ -1,2 +1,1 @@
-1: This project deals with cucumber and Testng.
-2: In case if we get any exception say class not found then goto root of the project and type command as mvn clean compile test-compile and then execute the project as normal, it will execute.
+This project is built using Maven with Cucumber. It has parallel execution feature and also provides the reporting too.
